@@ -5,3 +5,9 @@
 	path = public
 	url = https://github.com/ProduktifID/produktifid.github.io.git
 	branch = master
+[submodule "themes/themes/even"]
+	path = themes/themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even
