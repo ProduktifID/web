@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: http://produktif.id/sitemap.xml
